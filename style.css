@@ -1,11 +1,8 @@
 body {
     padding: 25px;
-    background-color:#FEFFFF;
+    background-image: url("morning.png");
     background-size: 100%;
-    color: black;}  
-.dark-mode {
-    background-color: rgb(1, 2, 33);
-    color:white;  }
+    color: black;}
 #univ{
    height: 85px;
    width: 85px;

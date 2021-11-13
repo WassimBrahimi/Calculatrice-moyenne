@@ -1,9 +1,3 @@
-if (new Date().getHours() < 18 || new Date().getHours() < 6 ) {
-    document.body.style.backgroundImage = "url('MORNING.png')"
-  }
-  else{
-    document.body.style.backgroundImage = "url('night.png')"
-  }
 
   function solve(){
   var exam1 = Number(document.getElementById("myForm").elements.namedItem("exam1").value);
